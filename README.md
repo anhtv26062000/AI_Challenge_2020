@@ -10,3 +10,4 @@ http://aichallenge.hochiminhcity.gov.vn/huong-dan-nhom-1
 4. Nguyễn Hữu Doanh - 18520606
 ## Kết quả vòng sơ tuyển:
 Team đạt được vị trí 17/53 đội nộp bài với score là 3.929596
+![GitHub Logo](Ranking.png)
